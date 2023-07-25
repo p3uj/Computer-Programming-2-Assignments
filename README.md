@@ -1,5 +1,5 @@
 # Computer-Programming-2-Assignments
-This contains all the answers to the assignments in the subject of computer programming 1.
+This contains all the answers to the assignments on the subject of Computer Programming 2.
 
   - ## Mid-Term
 
