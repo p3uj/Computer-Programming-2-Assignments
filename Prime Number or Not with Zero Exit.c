@@ -1,6 +1,6 @@
 #include<stdio.h>
 int num;    // Global variable
-// Using Funciton call
+// Using Function call
 int prime(int num){         // function prime with 1 parameter i.e num
     int i, divi=0;           // local variables
     for (i=1; i<=num; i++){
@@ -13,8 +13,8 @@ int prime(int num){         // function prime with 1 parameter i.e num
     else
         printf("%d is a Prime\n\n", num);     // if the accumulated divi is not greater than 2, print the a Prime
 }
-int main()
-{
+
+int main(){
     num = 1;
     while (num != 0){
         printf("Enter an integer: ");
