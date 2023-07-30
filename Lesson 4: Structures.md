@@ -1,7 +1,9 @@
 # Lesson 4: Structures
 
 ##### TABLE OF CONTENTS
-
+- [1.](#1)
+  * [1. STATEMENT](#1-statement)
+  * [1. MY SOLUTION](#1-my-solution)
 
 
 # 1.
