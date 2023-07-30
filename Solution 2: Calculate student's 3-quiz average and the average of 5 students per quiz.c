@@ -2,7 +2,7 @@
 #include<string.h>
 #include<conio.h>
 
-struct record           // Structure defination
+struct record           // Structure definition
 {
     char studNum[10];
     char studName[15];
